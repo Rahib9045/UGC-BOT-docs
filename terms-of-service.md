@@ -1,6 +1,6 @@
 # Terms of Service for UGC Competition Bot
 
-**Last Updated**: [Insert Date]
+**Last Updated**: 3/1/2025
 
 By using the UGC Competition Bot, you agree to these terms:
 
@@ -11,4 +11,4 @@ By using the UGC Competition Bot, you agree to these terms:
 5. **Liability**: The Bot is provided "as is." We are not liable for damages.
 6. **Changes**: We may update these terms at any time.
 
-For questions, contact [Insert Contact Information].
+For questions, contact rahib9045@gmail.com.
